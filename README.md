@@ -1,2 +1,2 @@
 # Conversor de Temperatura
- Conversor das principais escalas de temperatura
+ Conversor das principais escalas de temperatura.
